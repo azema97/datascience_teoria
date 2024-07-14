@@ -1,0 +1,214 @@
+{
+  "_id": 1,
+  "type": "vegan",
+  "size": "Small",
+  "price": 4,
+  "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 30,
+    "likes": 12,
+    "dislikes": 5
+  }
+}
+{
+  "_id": 2,
+  "type": "vegan",
+  "size": "large",
+   "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 25,
+    "likes": 10,
+    "dislikes": 5
+  }
+}
+{
+  "_id": 3,
+  "type": "chicken",
+  "size": "small",
+  "price": 10,
+  "ingredients": [
+    " ingredient1",
+    " ingredient2"
+  ],
+  "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 18,
+    "likes": 7,
+    "dislikes": 5
+  }
+}
+{
+  "_id": 4,
+  "type": "onion",
+  "size": "medium",
+  "price": 7,
+  "ingredients": [
+    " ingredient1",
+    "ingredient2",
+    "ingredient3",
+    " ingredient5",
+    "ingredient6"
+  ],
+  "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 20,
+    "likes": 15,
+    "dislikes": 5
+  }
+}
+{
+  "_id": 6,
+  "type": "pepperoni",
+  "size": "medium",
+  "price": 6,
+  "ingredients": [
+    "ingredient1",
+    "ingredient5"
+  ],
+  "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 30,
+    "likes": 15,
+    "dislikes": 8
+  }
+}
+{
+  "_id": 7,
+  "type": "vegan",
+  "size": "medium",
+  "price": 7,
+  "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 21,
+    "likes": 12,
+    "dislikes": 5
+  }
+}
+{
+  "_id": 8,
+  "type": "cheddar",
+  "size": "small",
+  "price": 8,
+  "ingredients": [
+    "ingredient4",
+    "ingredient5"
+  ],
+  "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 11,
+    "likes": 11,
+    "dislikes": 0
+  }
+}
+{
+  "_id": 9,
+  "type": "onion",
+  "size": "small",
+  "price": 5,
+  "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 30,
+    "likes": 12,
+    "dislikes": 6
+  }
+}
+{
+  "_id": 11,
+  "type": "cheddar",
+  "size": "medium",
+  "price": 10,
+  "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 28,
+    "likes": 11,
+    "dislikes": 5
+  }
+}
+{
+  "_id": 12,
+  "type": "cheddar",
+  "size": "large",
+  "price": 12,
+  "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 30,
+    "likes": 14,
+    "dislikes":3
+  }
+}
+{
+  "_id": 13,
+  "type": "pepperoni",
+  "size": "small",
+  "price": 4,
+  "ingredients": [
+    "ingredient1",
+    "ingredient2"
+  ],
+   "stats": {
+    "since": {
+      "$date": "2024-03-29T14:01:18.564Z"
+    },
+    "sales": 19,
+    "likes": 14,
+    "dislikes": 5
+  }
+}
+{
+  "_id": 14,
+  "type": "Pepperoni",
+  "size": "large",
+  "price": 12,
+  "ingredients": [
+    "ingredient1",
+    "ingredient2"
+  ],
+  "stats":
+    {
+      "since": {
+        "$date": "2020-08-07T00:00:00.000Z"
+      },
+      "sales": 30,
+      "likes": 12,
+      "dislikes": 5
+    }
+}
+{
+  "_id": 21,
+  "type": "pepperoni",
+  "size": "extra large",
+  "price": 14,
+  "ingredients": [
+    "ingredient1",
+    "ingredient2"
+  ],
+  "stats":
+    {
+      "since": {
+        "$date": "2020-08-07T00:00:00.000Z"
+      },
+      "sales": 30,
+      "likes": 12,
+      "dislikes": 5
+    }
+}

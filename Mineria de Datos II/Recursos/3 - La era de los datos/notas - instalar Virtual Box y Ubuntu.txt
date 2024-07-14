@@ -1,0 +1,5 @@
+- Instalar alguna versión de Virtual Box.
+- Buscar videos sobre como mejorar la performance de una maquina virtual en VBOX (por defecto, vienen con un nivel muy reducido de recursos).
+- Instalar alguna distribución de Ubuntu (Linux). No necesariamente tiene que ser Ubuntu, pero es la distribución que se utiliza. Puede ser una muy reciente (estoy usando la ultima versión en una maquina virtual, y luego de actualizar bien los requisitos de esta logre que funcione sin trabas).
+
+Ante la duda, preguntar a Tomi
